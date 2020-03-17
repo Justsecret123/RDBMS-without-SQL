@@ -1,5 +1,5 @@
 # RDBMS-without-SQL
-This repository contains a java application which main purpose is to facilitate the usage of a relationnal database management system without any knowledge of SQL language, syntax or rules. 
+This repository contains a java application which main purpose is to facilitate the usage of a relationnal database management system, without any knowledge of the SQL language, syntax or rules. 
 > ** Feel free to criticize, contribute or help in any possible way .
 
 
