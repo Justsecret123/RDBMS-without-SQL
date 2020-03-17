@@ -15,11 +15,10 @@ This repository contains a java application which main purpose is to facilitate 
 - [ ] Users accounts operations (viewing, editing...)
 
 ## Screenshots 
-![Connexion (Connexion):](Accueil_connexion.PNG)
-![Home (Home):](Accueil_Home.PNG)
-![Table_menu (Table_menu):](Table.PNG)
-![Search_one (Search):](Table _recherche_1.PNG)
-![Search_two (Search_):](Table _recherche_fin.PNG)
+![Connexion (home):](Accueil_connexion.PNG)
+![Accueil (home):](Accueil_Home.PNG)
+![Search_one (home):](Accueil_recherche_1.PNG)
+![Search_two (home):](Accueil_recherche_fin.PNG)
 
 ## Pre-requisites :
 
