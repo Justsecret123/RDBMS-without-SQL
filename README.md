@@ -2,6 +2,7 @@
 This repository contains a java application which main purpose is to facilitate the usage of a relationnal database management system without any knowledge of SQL language, syntax or rules. 
 > ** Feel free to criticize, contribute or help in any possible way .
 
+
 ## Features
 - [x] Database connectivity
 - [x] Schemas and databases visualization
@@ -30,7 +31,7 @@ This repository contains a java application which main purpose is to facilitate 
 ## Additionnal info : 
 
 - Language : French
-
+> ** As of now, the project highly focuses on MySQL. 
 
 
 ## Tools 
