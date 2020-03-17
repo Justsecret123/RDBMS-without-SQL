@@ -17,6 +17,7 @@ This repository contains a java application which main purpose is to facilitate 
 ## Screenshots 
 ![Connexion (home):](Accueil_connexion.PNG)
 ![Accueil (home):](Accueil_Home.PNG)
+![Table (home):](Table.PNG)
 ![Search_one (home):](Table_recherche_1.PNG)
 ![Search_two (home):](Table_recherche_fin.PNG)
 
