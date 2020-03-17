@@ -18,8 +18,8 @@ This repository contains a java application which main purpose is to facilitate 
 ![Connexion (home):](Accueil_connexion.PNG)
 ![Accueil_Home (home):](Accueil_Home.PNG)
 ![Table (home):](Table.PNG)
-![Table_recherche_1 (home):](Table_recherche_1.PNG)
-![Table_recherche_fin (home):](Table_recherche_fin.PNG)
+![Table_recherche_1 (home):](https://github.com/Justsecret123/RDBMS-without-SQL/blob/master/Table%20_recherche_1.PNG)
+![Table_recherche_fin (home):](https://github.com/Justsecret123/RDBMS-without-SQL/blob/master/Table%20_recherche_fin.PNG)
 
 ## Pre-requisites :
 
