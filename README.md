@@ -8,4 +8,16 @@ This repository contains a java application which main purpose is to facilitate 
 - [x] Tables records visualization 
 - [x] Search queries without SQL syntax 
 - [x] Tables deletion
-- [] Tables, records and schemas creation
+- [x] Functions, views and procedures visualization
+- [ ] Tables, records, functions, views, procedures and schemas creation
+- [ ] History editing and visualization 
+- [ ] Users accounts operations (viewing, editing...)
+
+## Screenshots 
+
+## Tools 
+- Programming language : Java
+- Querying Language : SQL
+- IDE : Apache NetBeans XI
+
+
