@@ -18,8 +18,8 @@ This repository contains a java application which main purpose is to facilitate 
 ![Connexion (Connexion):](Accueil_connexion.PNG)
 ![Home (Home):](Accueil_Home.PNG)
 ![Table_menu (Table_menu):](Table.PNG)
-![Search1 (Search1):](Table_recherche_1.PNG)
-![Search2 (Search2):](Table_recherche_fin.PNG)
+![Search_one (Search):](Table_recherche_1.PNG)
+![Search_two (Search_):](Table_recherche_fin.PNG)
 
 ## Pre-requisites :
 
