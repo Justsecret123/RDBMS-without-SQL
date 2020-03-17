@@ -17,9 +17,14 @@ This repository contains a java application which main purpose is to facilitate 
 ## Screenshots 
 
 ## Pre-requisites :
+
 - Make sure you have the RDBMS server-side/client-side application installed on your computer.
 - Turn on the service associated to the DMBS before using the application. 
 - Java SE 8 or more.
+
+## Additionnal info : 
+
+- Language : French
 
 
 
