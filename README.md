@@ -15,6 +15,11 @@ This repository contains a java application which main purpose is to facilitate 
 - [ ] Users accounts operations (viewing, editing...)
 
 ## Screenshots 
+(Accueil_Home.PNG)
+(Accueil_connexion.PNG)
+(Table.PNG)
+(Table_recherche_1.PNG)
+(Table_recherche_fin.PNG)
 
 ## Pre-requisites :
 
@@ -32,5 +37,5 @@ This repository contains a java application which main purpose is to facilitate 
 - Programming language : Java
 - Querying Language : SQL
 - IDE : Apache NetBeans XI
-
+- Icons source : Icons8
 
