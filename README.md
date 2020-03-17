@@ -1,6 +1,6 @@
 # RDBMS-without-SQL
 This repository contains a java application which main purpose is to facilitate the usage of a relationnal database management system without any knowledge of SQL language, syntax or rules. 
--> ** Feel free to criticize, contribute or help in any possible way **.
+> ** Feel free to criticize, contribute or help in any possible way .
 
 ## Features
 - [x] Database connectivity
@@ -15,6 +15,13 @@ This repository contains a java application which main purpose is to facilitate 
 - [ ] Users accounts operations (viewing, editing...)
 
 ## Screenshots 
+
+## Pre-requisites :
+- Make sure you have the RDBMS server-side/client-side application installed on your computer.
+- Turn on the service associated to the DMBS before using the application. 
+- Java SE 8 or more.
+
+
 
 ## Tools 
 - Programming language : Java
